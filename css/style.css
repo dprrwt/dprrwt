@@ -1,14 +1,9 @@
-html{
-    margin: 0;
-    padding: 0;
-}
 
 body{
-    font-family: "Capriola", -apple-system, BlinkMacSystemFont, sans-serif;
-    color: #fff;
     background-color: #1a1a1a;
 }
-  
+
+/*
 .content{
     max-width: 1200px;
     width: 90%;
@@ -160,7 +155,12 @@ footer ul li a{
     color: #fff;
     margin: 20px;
 }
+
+*/
     /*----fa icons color-----*/
+
+
+/*    
 .fa-facebook-f:hover{
     color: #3b5998
 }
@@ -181,3 +181,4 @@ footer ul li a{
     color: #dd4b39;
 }
 /*----fa icons color-----*/
+
